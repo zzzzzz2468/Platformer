@@ -1,0 +1,4037 @@
+fileFormatVersion: 2
+guid: a1350bd94ce160d4a99bfcaad73741e9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SNES - Super Metroid - Samus Gravity Suit_0
+    21300002: SNES - Super Metroid - Samus Gravity Suit_1
+    21300004: SNES - Super Metroid - Samus Gravity Suit_2
+    21300006: SNES - Super Metroid - Samus Gravity Suit_3
+    21300008: SNES - Super Metroid - Samus Gravity Suit_4
+    21300010: SNES - Super Metroid - Samus Gravity Suit_5
+    21300012: SNES - Super Metroid - Samus Gravity Suit_6
+    21300014: SNES - Super Metroid - Samus Gravity Suit_7
+    21300016: SNES - Super Metroid - Samus Gravity Suit_8
+    21300018: SNES - Super Metroid - Samus Gravity Suit_9
+    21300020: SNES - Super Metroid - Samus Gravity Suit_10
+    21300022: SNES - Super Metroid - Samus Gravity Suit_11
+    21300024: SNES - Super Metroid - Samus Gravity Suit_12
+    21300026: SNES - Super Metroid - Samus Gravity Suit_13
+    21300028: SNES - Super Metroid - Samus Gravity Suit_14
+    21300030: SNES - Super Metroid - Samus Gravity Suit_15
+    21300032: SNES - Super Metroid - Samus Gravity Suit_16
+    21300034: SNES - Super Metroid - Samus Gravity Suit_17
+    21300036: SNES - Super Metroid - Samus Gravity Suit_18
+    21300038: SNES - Super Metroid - Samus Gravity Suit_19
+    21300040: SNES - Super Metroid - Samus Gravity Suit_20
+    21300042: SNES - Super Metroid - Samus Gravity Suit_21
+    21300044: SNES - Super Metroid - Samus Gravity Suit_22
+    21300046: SNES - Super Metroid - Samus Gravity Suit_23
+    21300048: SNES - Super Metroid - Samus Gravity Suit_24
+    21300050: SNES - Super Metroid - Samus Gravity Suit_25
+    21300052: SNES - Super Metroid - Samus Gravity Suit_26
+    21300054: SNES - Super Metroid - Samus Gravity Suit_27
+    21300056: SNES - Super Metroid - Samus Gravity Suit_28
+    21300058: SNES - Super Metroid - Samus Gravity Suit_29
+    21300060: SNES - Super Metroid - Samus Gravity Suit_30
+    21300062: SNES - Super Metroid - Samus Gravity Suit_31
+    21300064: SNES - Super Metroid - Samus Gravity Suit_32
+    21300066: SNES - Super Metroid - Samus Gravity Suit_33
+    21300068: SNES - Super Metroid - Samus Gravity Suit_34
+    21300070: SNES - Super Metroid - Samus Gravity Suit_35
+    21300072: SNES - Super Metroid - Samus Gravity Suit_36
+    21300074: SNES - Super Metroid - Samus Gravity Suit_37
+    21300076: SNES - Super Metroid - Samus Gravity Suit_38
+    21300078: SNES - Super Metroid - Samus Gravity Suit_39
+    21300080: SNES - Super Metroid - Samus Gravity Suit_40
+    21300082: SNES - Super Metroid - Samus Gravity Suit_41
+    21300084: SNES - Super Metroid - Samus Gravity Suit_42
+    21300086: SNES - Super Metroid - Samus Gravity Suit_43
+    21300088: SNES - Super Metroid - Samus Gravity Suit_44
+    21300090: SNES - Super Metroid - Samus Gravity Suit_45
+    21300092: SNES - Super Metroid - Samus Gravity Suit_46
+    21300094: SNES - Super Metroid - Samus Gravity Suit_47
+    21300096: SNES - Super Metroid - Samus Gravity Suit_48
+    21300098: SNES - Super Metroid - Samus Gravity Suit_49
+    21300100: SNES - Super Metroid - Samus Gravity Suit_50
+    21300102: SNES - Super Metroid - Samus Gravity Suit_51
+    21300104: SNES - Super Metroid - Samus Gravity Suit_52
+    21300106: SNES - Super Metroid - Samus Gravity Suit_53
+    21300108: SNES - Super Metroid - Samus Gravity Suit_54
+    21300110: SNES - Super Metroid - Samus Gravity Suit_55
+    21300112: SNES - Super Metroid - Samus Gravity Suit_56
+    21300114: SNES - Super Metroid - Samus Gravity Suit_57
+    21300116: SNES - Super Metroid - Samus Gravity Suit_58
+    21300118: SNES - Super Metroid - Samus Gravity Suit_59
+    21300120: SNES - Super Metroid - Samus Gravity Suit_60
+    21300122: SNES - Super Metroid - Samus Gravity Suit_61
+    21300124: SNES - Super Metroid - Samus Gravity Suit_62
+    21300126: SNES - Super Metroid - Samus Gravity Suit_63
+    21300128: SNES - Super Metroid - Samus Gravity Suit_64
+    21300130: SNES - Super Metroid - Samus Gravity Suit_65
+    21300132: SNES - Super Metroid - Samus Gravity Suit_66
+    21300134: SNES - Super Metroid - Samus Gravity Suit_67
+    21300136: SNES - Super Metroid - Samus Gravity Suit_68
+    21300138: SNES - Super Metroid - Samus Gravity Suit_69
+    21300140: SNES - Super Metroid - Samus Gravity Suit_70
+    21300142: SNES - Super Metroid - Samus Gravity Suit_71
+    21300144: SNES - Super Metroid - Samus Gravity Suit_72
+    21300146: SNES - Super Metroid - Samus Gravity Suit_73
+    21300148: SNES - Super Metroid - Samus Gravity Suit_74
+    21300150: SNES - Super Metroid - Samus Gravity Suit_75
+    21300152: SNES - Super Metroid - Samus Gravity Suit_76
+    21300154: SNES - Super Metroid - Samus Gravity Suit_77
+    21300156: SNES - Super Metroid - Samus Gravity Suit_78
+    21300158: SNES - Super Metroid - Samus Gravity Suit_79
+    21300160: SNES - Super Metroid - Samus Gravity Suit_80
+    21300162: SNES - Super Metroid - Samus Gravity Suit_81
+    21300164: SNES - Super Metroid - Samus Gravity Suit_82
+    21300166: SNES - Super Metroid - Samus Gravity Suit_83
+    21300168: SNES - Super Metroid - Samus Gravity Suit_84
+    21300170: SNES - Super Metroid - Samus Gravity Suit_85
+    21300172: SNES - Super Metroid - Samus Gravity Suit_86
+    21300174: SNES - Super Metroid - Samus Gravity Suit_87
+    21300176: SNES - Super Metroid - Samus Gravity Suit_88
+    21300178: SNES - Super Metroid - Samus Gravity Suit_89
+    21300180: SNES - Super Metroid - Samus Gravity Suit_90
+    21300182: SNES - Super Metroid - Samus Gravity Suit_91
+    21300184: SNES - Super Metroid - Samus Gravity Suit_92
+    21300186: SNES - Super Metroid - Samus Gravity Suit_93
+    21300188: SNES - Super Metroid - Samus Gravity Suit_94
+    21300190: SNES - Super Metroid - Samus Gravity Suit_95
+    21300192: SNES - Super Metroid - Samus Gravity Suit_96
+    21300194: SNES - Super Metroid - Samus Gravity Suit_97
+    21300196: SNES - Super Metroid - Samus Gravity Suit_98
+    21300198: SNES - Super Metroid - Samus Gravity Suit_99
+    21300200: SNES - Super Metroid - Samus Gravity Suit_100
+    21300202: SNES - Super Metroid - Samus Gravity Suit_101
+    21300204: SNES - Super Metroid - Samus Gravity Suit_102
+    21300206: SNES - Super Metroid - Samus Gravity Suit_103
+    21300208: SNES - Super Metroid - Samus Gravity Suit_104
+    21300210: SNES - Super Metroid - Samus Gravity Suit_105
+    21300212: SNES - Super Metroid - Samus Gravity Suit_106
+    21300214: SNES - Super Metroid - Samus Gravity Suit_107
+    21300216: SNES - Super Metroid - Samus Gravity Suit_108
+    21300218: SNES - Super Metroid - Samus Gravity Suit_109
+    21300220: SNES - Super Metroid - Samus Gravity Suit_110
+    21300222: SNES - Super Metroid - Samus Gravity Suit_111
+    21300224: SNES - Super Metroid - Samus Gravity Suit_112
+    21300226: SNES - Super Metroid - Samus Gravity Suit_113
+    21300228: SNES - Super Metroid - Samus Gravity Suit_114
+    21300230: SNES - Super Metroid - Samus Gravity Suit_115
+    21300232: SNES - Super Metroid - Samus Gravity Suit_116
+    21300234: SNES - Super Metroid - Samus Gravity Suit_117
+    21300236: SNES - Super Metroid - Samus Gravity Suit_118
+    21300238: SNES - Super Metroid - Samus Gravity Suit_119
+    21300240: SNES - Super Metroid - Samus Gravity Suit_120
+    21300242: SNES - Super Metroid - Samus Gravity Suit_121
+    21300244: SNES - Super Metroid - Samus Gravity Suit_122
+    21300246: SNES - Super Metroid - Samus Gravity Suit_123
+    21300248: SNES - Super Metroid - Samus Gravity Suit_124
+    21300250: SNES - Super Metroid - Samus Gravity Suit_125
+    21300252: SNES - Super Metroid - Samus Gravity Suit_126
+    21300254: SNES - Super Metroid - Samus Gravity Suit_127
+    21300256: SNES - Super Metroid - Samus Gravity Suit_128
+    21300258: SNES - Super Metroid - Samus Gravity Suit_129
+    21300260: SNES - Super Metroid - Samus Gravity Suit_130
+    21300262: SNES - Super Metroid - Samus Gravity Suit_131
+    21300264: SNES - Super Metroid - Samus Gravity Suit_132
+    21300266: SNES - Super Metroid - Samus Gravity Suit_133
+    21300268: SNES - Super Metroid - Samus Gravity Suit_134
+    21300270: SNES - Super Metroid - Samus Gravity Suit_135
+    21300272: SNES - Super Metroid - Samus Gravity Suit_136
+    21300274: SNES - Super Metroid - Samus Gravity Suit_137
+    21300276: SNES - Super Metroid - Samus Gravity Suit_138
+    21300278: SNES - Super Metroid - Samus Gravity Suit_139
+    21300280: SNES - Super Metroid - Samus Gravity Suit_140
+    21300282: SNES - Super Metroid - Samus Gravity Suit_141
+    21300284: SNES - Super Metroid - Samus Gravity Suit_142
+    21300286: SNES - Super Metroid - Samus Gravity Suit_143
+    21300288: SNES - Super Metroid - Samus Gravity Suit_144
+    21300290: SNES - Super Metroid - Samus Gravity Suit_145
+    21300292: SNES - Super Metroid - Samus Gravity Suit_146
+    21300294: SNES - Super Metroid - Samus Gravity Suit_147
+    21300296: SNES - Super Metroid - Samus Gravity Suit_148
+    21300298: SNES - Super Metroid - Samus Gravity Suit_149
+    21300300: SNES - Super Metroid - Samus Gravity Suit_150
+    21300302: SNES - Super Metroid - Samus Gravity Suit_151
+    21300304: SNES - Super Metroid - Samus Gravity Suit_152
+    21300306: SNES - Super Metroid - Samus Gravity Suit_153
+    21300308: SNES - Super Metroid - Samus Gravity Suit_154
+    21300310: SNES - Super Metroid - Samus Gravity Suit_155
+    21300312: SNES - Super Metroid - Samus Gravity Suit_156
+    21300314: SNES - Super Metroid - Samus Gravity Suit_157
+    21300316: SNES - Super Metroid - Samus Gravity Suit_158
+    21300318: SNES - Super Metroid - Samus Gravity Suit_159
+    21300320: SNES - Super Metroid - Samus Gravity Suit_160
+    21300322: SNES - Super Metroid - Samus Gravity Suit_161
+    21300324: SNES - Super Metroid - Samus Gravity Suit_162
+    21300326: SNES - Super Metroid - Samus Gravity Suit_163
+    21300328: SNES - Super Metroid - Samus Gravity Suit_164
+    21300330: SNES - Super Metroid - Samus Gravity Suit_165
+    21300332: SNES - Super Metroid - Samus Gravity Suit_166
+    21300334: SNES - Super Metroid - Samus Gravity Suit_167
+    21300336: SNES - Super Metroid - Samus Gravity Suit_168
+    21300338: SNES - Super Metroid - Samus Gravity Suit_169
+    21300340: SNES - Super Metroid - Samus Gravity Suit_170
+    21300342: SNES - Super Metroid - Samus Gravity Suit_171
+    21300344: SNES - Super Metroid - Samus Gravity Suit_172
+    21300346: SNES - Super Metroid - Samus Gravity Suit_173
+    21300348: SNES - Super Metroid - Samus Gravity Suit_174
+    21300350: SNES - Super Metroid - Samus Gravity Suit_175
+    21300352: SNES - Super Metroid - Samus Gravity Suit_176
+    21300354: SNES - Super Metroid - Samus Gravity Suit_177
+    21300356: SNES - Super Metroid - Samus Gravity Suit_178
+    21300358: SNES - Super Metroid - Samus Gravity Suit_179
+    21300360: SNES - Super Metroid - Samus Gravity Suit_180
+    21300362: SNES - Super Metroid - Samus Gravity Suit_181
+    21300364: SNES - Super Metroid - Samus Gravity Suit_182
+    21300366: SNES - Super Metroid - Samus Gravity Suit_183
+    21300368: SNES - Super Metroid - Samus Gravity Suit_184
+    21300370: SNES - Super Metroid - Samus Gravity Suit_185
+    21300372: SNES - Super Metroid - Samus Gravity Suit_186
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1234
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebeb9cde37990e64c9d4fd7947209ef0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1235
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cf5f6ff28765c4ea452403a0279246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1237
+        width: 26
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4172c0ff70cda478419d267b17207f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1237
+        width: 26
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486d28c02ebfa184a88bb3fca05ba54d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1237
+        width: 26
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc7b49650f4f7c47bbdb9bb1de73e79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1237
+        width: 26
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b732a8cf94a46847b08716365c959fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1237
+        width: 26
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31d7ac6afe496e448903f1a862a2168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1237
+        width: 26
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4946b151233596d419d190928eecbe35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1235
+        width: 20
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6251f3e56ac0e147a13134d3f2ce7a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1185
+        width: 24
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d99e20cfdcfc94293a2e30718c73ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1184
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd931b5b5428bee4ebcb326a90775229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1187
+        width: 26
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bde288997607a44b2b3c81d2df1c5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_12
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1187
+        width: 26
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e1f656ebddbcb4bbd653ff382a2a0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1187
+        width: 26
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15bee7003edb1c4ca2e26d8cc591459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_14
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1187
+        width: 26
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b74ff62760afd4b818c58e6ce8f5bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1187
+        width: 26
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d80b0727c0c17443922a4ef9f652211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_16
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1187
+        width: 26
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded8150ec42b414419f93faa12bfc8da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_17
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1184
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bc069da080a084aaf348d08ecbd89f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_18
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1131
+        width: 32
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f16c05071ed9394b86cc85f77192372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1129
+        width: 20
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaaf0823e6c6d248a8edccddeac5124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1129
+        width: 20
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ebb25cdcac113448c59f5762eaf6e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_21
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1138
+        width: 23
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2445d10eecaba9946b013bea284d3c15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_22
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1138
+        width: 23
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d014314b015db2c40bfbe08ea8c0b9d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_23
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1129
+        width: 20
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e36fef2246e32a41b64283d5fdb9d45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_24
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1129
+        width: 20
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81814f5fa4f956d4c8dadfedd59703d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_25
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1132
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b3e1ead27c9b44f8f76d51971356aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_26
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1086
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3938d97faff0e64fa5fe3880c365dbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1085
+        width: 27
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3364e71d1d2fc0c4396687b33ec56e2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_28
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1077
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dd508a1b3d03b4b8103dc6dcfda593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_29
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1081
+        width: 31
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30af9d679e33677408f7cbd95ec0a45a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_30
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1081
+        width: 31
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8402874f80e81ab409553586125f34a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_31
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1077
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6ad957ceb8efe4288afc04cd6f8b5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_32
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1085
+        width: 27
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e39ba2becb35647b06a1e4e5c7d6b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_33
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1086
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad54bb3f384aff4484e4aeeb61eacba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_34
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1039
+        width: 28
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2cb095df105024dbd0e45b6c817cab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_35
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1042
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3957cd09db45a340a3ae56ce22ffe32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_36
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1042
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55823a14bde5fba4fb81c7c277fb1099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_37
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1042
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16efe840ef61e19479ff9af8a57b86da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_38
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1042
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366f6a5aec5461c44b5655535d4d216a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_39
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1042
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2650daa06f47d4ab78760f5167f98c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_40
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1042
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37aa51dfef366f94cab13e387489ae5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_41
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1040
+        width: 28
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cb3a3897f4c5643b14aff112e45f87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 988
+        width: 29
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc64ff8e7c33df4a80d101871f2ed7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_43
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 992
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfe4e6031cf8724ebb881fad26d4023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_44
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 992
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2bd8ffe7faf7a45b8e2a147c9eaa9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_45
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 992
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ff16a67a4248140818434dc5a3a859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_46
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 992
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d49cd15352eb8741b19edc0011c0199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_47
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 992
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15832287b0edcb74f894f2a2470fc903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_48
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 992
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01899ea8b3027fb468b271b812c7d5d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_49
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 989
+        width: 29
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d5e20fea9fdd84fb1806c7fa95a163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_50
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 937
+        width: 18
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd06013958f3e640a812eda0fd84ef8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_51
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 937
+        width: 18
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4556ee0aeb0fdf4418a2febf5f1438ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_52
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 937
+        width: 18
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cd661fd4f80e245861b010cdb2d9e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_53
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 937
+        width: 18
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58f73d14e79cd24c83d638e9f79358a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_54
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 887
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbf5a281a99e8c4f80638b00640e6ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_55
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 887
+        width: 29
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edbca0d8838e044681e5c3e79af0fd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_56
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 887
+        width: 23
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29f7560abe096e4e9106d5f3e689510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_57
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 887
+        width: 18
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479b29358dc20ad458e3a27c10b63eef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_58
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 887
+        width: 18
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bd13b357eb3d640af877759b2a291c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_59
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 887
+        width: 23
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8c0be5bb374ea4d840bea675749019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_60
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 887
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c09ca245e3032b45a87320bbf6c2de9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_61
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 887
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc8a4ac9773f2248af32e607ba3a361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 837
+        width: 29
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be927187ce05207418ab69b2051f0684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_63
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 837
+        width: 22
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bb017629bb257449c18e41aef1f92d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_64
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 837
+        width: 19
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9707bfce043c74f9dd8912028c4f2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_65
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 837
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a0d100019088348b0b8d1cabf94f27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_66
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 837
+        width: 29
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f3a6429e6dedb4cbbe2a449425f3f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_67
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 837
+        width: 22
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941643018512d844ba973fbe2424ac73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_68
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 837
+        width: 19
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0427ed01f465ee5419b1731b331eec7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_69
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 837
+        width: 29
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a64661c2375b24b913c6d80bfa3d61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_70
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 787
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f1ddba61d537e45b87b2c77f667597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_71
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 787
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a5afbe8edb9364f8d00ba278ceea5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_72
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 787
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e8cc7cfc5fb154b8b7c746a9f467a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_73
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 787
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edcbadd0be117848b9244e78cfb4c6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_74
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 740
+        width: 19
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71f0be0da3cd9d4dbad0cc464153cd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_75
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 736
+        width: 23
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559f51a92149022429b5237372bc05d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_76
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 737
+        width: 18
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b15330ae670ae45a7bcfc1106a20a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_77
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 738
+        width: 19
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8085458266c362b4d916044ac243dfa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_78
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 738
+        width: 19
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8553cfd04d739f419b4a23a80cd8d3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_79
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 737
+        width: 18
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5325ab15e1a6b540aa3f90bc9dca914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_80
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 736
+        width: 23
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4f16a2bcfe54146be8fcecab8869a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_81
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 740
+        width: 19
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8cf5954c5d39549abbdc4d2d2b91ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_82
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 686
+        width: 22
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60eff6251d2d9f64da04fbb947aff0cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_83
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 688
+        width: 18
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ac8b2d25999b44f83a3675212d13d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_84
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 690
+        width: 19
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e71926abd4b8f54e8205275b4d2dde0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_85
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 689
+        width: 19
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9393dc2c78a51849b8d11d4028202f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_86
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 688
+        width: 18
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882ed0c6f302f2f40b736d3f1c5da32b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_87
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 689
+        width: 19
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee47f6303013f57419c07d57510b8943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_88
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 690
+        width: 20
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18689565817436e47b2927efd06bd2d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_89
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 686
+        width: 22
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5677cdbae2020a24daabc93f64b68d44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_90
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 641
+        width: 22
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a24847b4f80f0d4e9755ef054882621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_91
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 637
+        width: 21
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ebccb5d6922f940a3238f71d7e7b4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_92
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 637
+        width: 21
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48457268c0b47c04fa96cdaf2ddad597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_93
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 641
+        width: 22
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e4843fbbc623745ba0c731bbf53f8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_94
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 586
+        width: 32
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7f71ca26e8b874cb839820ba859db8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_95
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 587
+        width: 30
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4606690c9502142865e7b746505c2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_96
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 587
+        width: 37
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4247e8a07130447b07efecbad37ed9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_97
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 587
+        width: 38
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994db619165ac8748b94aa3736b96149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_98
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 587
+        width: 38
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157ff3b5cb406ea4faaf6173b0d21fee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_99
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 587
+        width: 37
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759ba882ba5622440a98c0cfe1832d74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_100
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 587
+        width: 30
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bbf9bdf39f4f847b26cf2ede1864da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_101
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 613
+        width: 27
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f05e6b09fa7427448495bf7d9ad866c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_102
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 586
+        width: 22
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b483cacc3489d4b80f0318e4802795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 537
+        width: 29
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5425398e32a9e45a7bfef831ec1b70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_104
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 537
+        width: 38
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa995a31da8b45940a7dd069708c4ddd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_105
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 537
+        width: 39
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4622a5b919da8841be5bf8ca8e9659a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_106
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 536
+        width: 36
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f94fe9c888e7743952e38aa93b267d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_107
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 537
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd29374451396ef4399418efa56cc0de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_108
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 537
+        width: 39
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfb7ea7a561f464ab03cfb606b5de06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_109
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 537
+        width: 38
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d3d0c70d71ade44987b8f124b83c16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_110
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 537
+        width: 29
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94962c9b9a84df4693eb3a10f4f11a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_111
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 486
+        width: 36
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a5ca6daae6c144486364e36980b7ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_112
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 487
+        width: 33
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0722f35bd1c28c489addc208c5b83f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_113
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 487
+        width: 33
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679f2ba87ba2a2940bcebdb2f9c881dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_114
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 487
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b18771d85ef3542aa76b975721f9d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_115
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 437
+        width: 33
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516f86be1c8968043a85915f2788e017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_116
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 437
+        width: 29
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01d758381fb42447bb266d779a5ea02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_117
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 437
+        width: 27
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcadde7ce72c39f4ca1ef30c96c784f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_118
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 437
+        width: 34
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a1645ef2e97a54bbf49609ce064657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_119
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 437
+        width: 33
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd95278b2c41a164c8fd10602cf62c5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_120
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 437
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362bb8b16f6391b4fb19b121fa9428c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_121
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 437
+        width: 34
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dab3d4ef4704f647abef20594a9a920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_122
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 437
+        width: 27
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5ca82ada5bc734fa306c4b2f45047e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_123
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 387
+        width: 33
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ebd2ecd43056e43b0a0c8a0b2eab05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_124
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 387
+        width: 30
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dd915dc24cf964e88b306618b3ab40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_125
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 387
+        width: 26
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e89dece1d187e43bdf6cf932a1b979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_126
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 387
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcabdc02077aae4689e1e6035d3e6a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_127
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 387
+        width: 29
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b88e53ce8334b4d9c0dbd3a7f87c4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_128
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 387
+        width: 33
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd76fcb4b73088049bf174719e152bfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_129
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 387
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76149b1a3f728e740be670ca558f74e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_130
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 387
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b160a1069cd02448ff797ebc9096a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_131
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 337
+        width: 34
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7d21cd5e851e9449532804df98a363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_132
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 337
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce487e206779d74995a792cc2daa90d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_133
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 337
+        width: 26
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d442c40b0f8a44f8672797f0063a8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_134
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 337
+        width: 30
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f09a2f88c38af418e68def69647208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_135
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 284
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2068a804fece0a64fa177756644ff589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_136
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 284
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a35bb0e935f7140b4cce0b47a07e52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_137
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 284
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0482795197a6c945a57eb622b2a984d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_138
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 284
+        width: 36
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d967eea0c389f5a45a80843d5c311f66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_139
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 284
+        width: 35
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d20a88ee5414b4e822aed4b7530c54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_140
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 284
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0604d3728ce8b83418ce7e6bbb03f673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_141
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 284
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2bc3a009459444094cbb9472fe39c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_142
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 284
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bea9e804783e54082153c7a3988966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_143
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 234
+        width: 31
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278fdfda8028b774e83eb82cc91ace1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_144
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 234
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250f1292d98c80248a85caa4f5e25a8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_145
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 234
+        width: 36
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7976e078c75a2274f821f748d8a2f0e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_146
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 234
+        width: 37
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30851dab5bbcd33478bd14904749b261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_147
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 234
+        width: 37
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a917fc8598dcc534dbc00228ac031e3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_148
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 234
+        width: 36
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3218a973827b3de43a5317dd5de9f5a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_149
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 234
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8f3f97ed1ffe0418f326cca72e74e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_150
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 234
+        width: 31
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3463ac907ede82f4b8479530dda033c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_151
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 184
+        width: 35
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08eee1ec5d9abc44a94844ac98ccdfed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_152
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 184
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce9fdbbfe6f26149a8a61d6c265561a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_153
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 184
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182b9a38b497a8043aa788985233af55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_154
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 184
+        width: 36
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147467013639db1448ee5dfab58475fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_155
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 144
+        width: 25
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d297bb0f385a240b199cc7b5010e7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_156
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 143
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180a99564f2e3384091e51f23cf2b170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_157
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 146
+        width: 28
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2049ac7392fc6154bb91803bb5144bb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_158
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 150
+        width: 31
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319c57b6cf81ec44cab3229b71d0b282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_159
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 150
+        width: 31
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e79496032d9d38419ec3c064af6683b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_160
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 146
+        width: 28
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03803ef7b641dc4590900edf35daac9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_161
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 143
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0515ced72bd500040be222944aad6442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_162
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 144
+        width: 25
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e9f5265b9d3b2438a0648ebb652f38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_163
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 94
+        width: 25
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67300536f24cf034db8e45f150a4da3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_164
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 93
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14aae5fe0a8939b46abe09e621208b90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_165
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 96
+        width: 28
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837fde24949f74b4cbfe31ac19af944d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_166
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 100
+        width: 31
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00af15cb62e5a04799ccbeab47745b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_167
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 100
+        width: 31
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c5d8ecdd71d0242801e11defd14f4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_168
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 96
+        width: 28
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614b1c91615df3f49aa0dea4a42703e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_169
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 93
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f59d850744ec054db02fff6c01a1431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_170
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 94
+        width: 25
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300afb9163a95414695c23efc6b0e59b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_171
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 50
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02126692928b98e4f823bfdbd313a8aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_172
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 50
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a76c933ad9479644ab80c392993f965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_173
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 50
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0df866a5baae5f459bc07ee1647ffea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_174
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 50
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2496fc5651b8999439d01bee12761f1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_175
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 50
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537efec79ef54af48a43a0340453b0fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_176
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 50
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffb42af500cd3142a70e88c45ff165d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_177
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 50
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad22f550dea4e24f88a5075bb556953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_178
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 50
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c37cd1acab7bd1449328462ed0db158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_179
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7077c0d8191cf8b448139ac6c67330a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_180
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c8c4b58e51cb7498def8904feb4e4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_181
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1befa5091d3504caff3ab5e767523c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_182
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7377d2fdc9346740bc5dac686b956f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_183
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829afd73a58b7984686cc70e0e5e8a01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_184
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bef5cefb49c13147b63918e08bdce3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_185
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a391cf62b4e6494086304a416211103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Samus Gravity Suit_186
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a038c6d93993e345a29905033544388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0e0211432bc3dde4c862e04991aec073
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
